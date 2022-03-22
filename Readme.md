@@ -2,7 +2,7 @@
 
 Udacity Data Analytics Nanodegree Feb 2022 - Apr 2022. Project 2: Analyze A/B Results 
 
-[The jupyter Notebook](http://htmlpreview.github.io/?https://github.com/latinacode/Analyze-A-B-Results/blob/master/Analyze_ab_test_results_notebook.html)
+[Analyze A/B Test Results project Notebook](https://github.com/hagarelsayed/Udacity_Project_Analyze_AB_Test_Results/blob/master/Analyze_ab_test_results_notebook%20_Submitted.ipynb)
 
 # Project Details
 For this project, I will be working to understand the results of an A/B test run by an e-commerce website. The goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision. 
